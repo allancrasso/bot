@@ -1,0 +1,15 @@
+# Core libs
+openai
+psycopg2-binary
+requests
+python-docx
+numpy
+
+# Optional / local LLM
+ollama
+
+# GUI (only if you use the Tkinter-based UI and your environment requires it)
+tk
+
+# Dev / utilities (not required at runtime)
+python-dotenv
